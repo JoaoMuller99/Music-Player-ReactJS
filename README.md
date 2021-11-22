@@ -3,6 +3,7 @@
 Music Player built with ReactJS
 
 ![image](https://user-images.githubusercontent.com/80433203/142877599-75f81414-291a-4b8b-8bf2-4c7dec3be247.png)
+![image](https://user-images.githubusercontent.com/80433203/142877915-9932c14e-c288-4927-a141-5af7cb6f8b49.png)
 
 # Getting Started with Create React App
 
