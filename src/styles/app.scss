@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3 {
+  color: rgb(54, 54, 54);
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  user-select: none;
+  background: rgb(244, 240, 240);
+}
+
+h3,
+h4 {
+  font-weight: 400;
+  color: rgb(100, 100, 100);
+}
+
+.playing {
+  animation: rotation 20s linear infinite;
+}
+
+.App {
+  transition: all 0.5s ease;
+}
+
+.library-active {
+  margin-left: 20%;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@import "./song";
+@import "./player";
+@import "./library";
+@import "./nav";
