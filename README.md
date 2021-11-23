@@ -14,7 +14,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-Install the local dependencies to enable "npm start".
+Installs the local dependencies to enable "npm start".
 
 ### `npm start`
 
